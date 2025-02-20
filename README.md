@@ -10,7 +10,7 @@ It is a compiler for a basic imperative language that converts source code into 
 
 ## Project Structure
 
-The project consists of the following files in the compiler directory:
+The project consists of the following files in the `src` directory:
 
 `lexer.py` – a lexical analyzer that splits the source code into tokens.\
 `parser.py` – a syntax analyzer that constructs a simple syntax tree from tokens, represented as nested tuples.\
