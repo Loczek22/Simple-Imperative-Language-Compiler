@@ -1,0 +1,11 @@
+Autor: Adam Bydłowski 272340
+
+Folder zawiera pliki kompilatora do projektu z kursu Języki Formalne i Techniki Translacji 2024.
+
+Do poprawnego działania kompilatora potrzebne są:
+
+    -Python 3
+    -sly (pakiet pythona)
+
+Użycie kompilatora:
+    python3 compiler.py <input_file> <output_file>

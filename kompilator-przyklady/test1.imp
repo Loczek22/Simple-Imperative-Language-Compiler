@@ -1,0 +1,10 @@
+PROGRAM IS
+	n, m, r
+BEGIN
+    READ n;
+    READ m;
+    r:=n/m;
+    WRITE r;
+    
+
+END
