@@ -21,7 +21,8 @@ The project consists of the following files in the compiler directory:
 All the following directories and files were prepared by the course instructor, Dr. Maciej Gębala.
 
 `kompilator-przyklady/testy` directory – example programs for verifying the correctness of the generated code.\
-`kompilator-przyklady/programs` directory – additional utility scripts.\
+`kompilator-przyklady/program .. .imp` programs – additional utility scripts.\
+`kompilator-przyklady/program .. .mr` programs – results of program .. .imp compilation.\
 `kompilator-przyklady/maszyna_wirtualna` directory – virtual machine code.\
 `kompilator-przyklady/gramatyka.txt` – grammar of the imperative language.\
 `labor4.pdf` – project specification.
